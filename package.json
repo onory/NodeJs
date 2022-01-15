@@ -1,0 +1,17 @@
+{
+  "name": "03-basesnode",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar con guardado de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tabla": "node app --table=3"
+  },
+  "author": "Adrian Rivera",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {}
+}
